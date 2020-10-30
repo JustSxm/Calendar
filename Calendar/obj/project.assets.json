@@ -8928,19 +8928,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ShushImSam\\.nuget\\packages\\": {}
+    "C:\\Users\\mainm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShushImSam\\source\\repos\\Calendar\\Calendar\\Calendar.csproj",
+      "projectUniqueName": "C:\\Users\\mainm\\source\\repos\\JustSxm\\Calendar\\Calendar\\Calendar.csproj",
       "projectName": "Calendar",
-      "projectPath": "C:\\Users\\ShushImSam\\source\\repos\\Calendar\\Calendar\\Calendar.csproj",
-      "packagesPath": "C:\\Users\\ShushImSam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShushImSam\\source\\repos\\Calendar\\Calendar\\obj\\",
+      "projectPath": "C:\\Users\\mainm\\source\\repos\\JustSxm\\Calendar\\Calendar\\Calendar.csproj",
+      "packagesPath": "C:\\Users\\mainm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mainm\\source\\repos\\JustSxm\\Calendar\\Calendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ShushImSam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mainm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8992,7 +8992,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
